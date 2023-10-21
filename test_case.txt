@@ -1,3 +1,17 @@
 test_case
 
 
+http://ca.xzit.edu.cn/cas/login                               post
+http://myu.xzit.edu.cn/yikat-detail                           post
+http://myu.xzit.edu.cn/library-detail                         post
+https://www.xzit.edu.cn/119/list.htm                          post
+https://jwc.xzit.edu.cn/516/list.htm                          post
+http://ca.xzit.edu.cn:81/im/securitycenter/modifyPwd/index.zf get
+
+
+
+
+
+
+
+
